@@ -1,1 +1,2 @@
-"Test Wazuh Git Monitoring" 
+Wazuh Test 
+Test 2 
